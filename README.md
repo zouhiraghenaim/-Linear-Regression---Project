@@ -1,6 +1,7 @@
 # -Linear-Regression---Project# 
- How Linear Regression Works & Learns
-Linear regression is a method used to **predict a continuous value** based on one or more input features.  
+## How Linear Regression Works & Learns
+ 
+- Linear regression is a method used to **predict a continuous value** based on one or more input features.  
 It does this by finding the **best-fitting line (or hyperplane)** that minimizes the difference between the predicted values and the actual values.
 ---
 ## 1. Goal
