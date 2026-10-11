@@ -1,4 +1,4 @@
-# Linear and Logistic Regression Projects 🚀
+# Linear and Logistic Regression Projects 
 
 An educational repository dedicated to implementing fundamental machine learning algorithms: **Linear Regression** and **Logistic Regression** as part of practical lab works (TPs).
 
